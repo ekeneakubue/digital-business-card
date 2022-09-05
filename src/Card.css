@@ -1,0 +1,17 @@
+.footer{
+    padding: 20px;
+    background-color: black;
+}
+
+Col a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+.cad-tex{
+    color: #acb4b9;
+}
