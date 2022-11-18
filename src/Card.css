@@ -15,3 +15,19 @@ a:hover{
 .cad-tex{
     color: #acb4b9;
 }
+
+.pp{
+    background-image: url('img/codebg.jpeg') ;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    display: flex;
+    min-height:30% ;   
+}
+
+.mypassport{
+    width: 250px;
+    border-radius: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    z-index: 3;
+}
