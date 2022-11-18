@@ -20,7 +20,7 @@ export default function Cards() {
                 
                 <div class="card-body text-center bg-dark cad-tex">
                     <h2 class="card-title text-white">Ekene Akubue</h2>
-                    <h5 className='text-info'>Frontend Developer</h5>
+                    <h5 className='text-info'>FullStack Developer</h5>
                     <h5><Icon.TelephoneFill className='text-primary'/> +234 803 2744 865</h5><br/>
                     <Row>
                     <Col><a href="mailto:gigocode@gmail.com" target="_blank" rel="ekeneakubue" className="icon-colour home-social-icons"><Button variant="info btn btn-block"><Icon.Envelope/> Email</Button></a></Col>
